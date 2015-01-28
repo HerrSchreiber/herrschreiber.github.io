@@ -1,0 +1,49 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+
+body {
+	background: url(../img/pw_maze_white.png) repeat 0 0;
+
+}
+
+h2 {
+	font-family: 'Lobster', Georgia, Times, serif;
+}
+
+h1 {
+    font-family: 'Lobster', Georgia, Times, serif;
+}
+ 
+p {
+    font-family: 'Cabin', Helvetica, Arial, sans-serif;
+}
+
+
+
+#acs {
+  color: #FFB21F;
+  text-shadow: 1px 1px 1px #333;
+}
+
+#apcs {
+  color: #AFFF1F;
+  text-shadow: 1px 1px 1px #333;
+}
+
+#app1 {
+  color: #3579FF;
+  text-shadow: 1px 1px 1px #333;
+}
+
+#appc {
+  color: #FF1F95;
+  text-shadow: 1px 1px 1px #333;
+}
+
+.navbar-brand {
+  font-family: 'Lobster', Georgia, Times, serif;
+}
