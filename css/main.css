@@ -24,6 +24,10 @@ p {
 
 
 
+#myCarousel img {
+  min-height: 200px;
+}
+
 #acs {
   color: #FFB21F;
   text-shadow: 1px 1px 1px #333;
