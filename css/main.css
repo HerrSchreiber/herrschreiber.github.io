@@ -26,6 +26,8 @@ p {
 
 #myCarousel img {
   min-height: 200px;
+  min-width: 980px;
+  overflow: hidden;
 }
 
 #acs {
