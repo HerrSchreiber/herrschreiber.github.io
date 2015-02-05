@@ -25,9 +25,10 @@ p {
 
 
 #myCarousel img {
-  min-height: 200px;
-  min-width: 980px;
+  min-height: 257px;
+  min-width: 1236px;
   overflow: hidden;
+  
 }
 
 #acs {
